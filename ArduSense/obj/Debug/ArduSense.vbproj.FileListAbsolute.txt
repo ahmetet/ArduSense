@@ -1,0 +1,11 @@
+c:\users\hp\documents\visual studio 2015\Projects\ArduSense\ArduSense\bin\Debug\ArduSense.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\ArduSense\ArduSense\bin\Debug\ArduSense.exe
+c:\users\hp\documents\visual studio 2015\Projects\ArduSense\ArduSense\bin\Debug\ArduSense.pdb
+c:\users\hp\documents\visual studio 2015\Projects\ArduSense\ArduSense\bin\Debug\ArduSense.xml
+c:\users\hp\documents\visual studio 2015\Projects\ArduSense\ArduSense\obj\Debug\ArduSense.vbprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\ArduSense\ArduSense\obj\Debug\ArduSense.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\ArduSense\ArduSense\obj\Debug\ArduSense.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\ArduSense\ArduSense\obj\Debug\ArduSense.vbproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\ArduSense\ArduSense\obj\Debug\ArduSense.exe
+c:\users\hp\documents\visual studio 2015\Projects\ArduSense\ArduSense\obj\Debug\ArduSense.xml
+c:\users\hp\documents\visual studio 2015\Projects\ArduSense\ArduSense\obj\Debug\ArduSense.pdb
