@@ -69,12 +69,12 @@ Public Class Form1
     Private Sub ArduinoyaGeçişYapToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ArduinoyaGeçişYapToolStripMenuItem.Click
 
         Try
-            For Each acik_islem In Process.GetProcesses
+            'For Each acik_islem In Process.GetProcesses
 
-                If (acik_islem.ProcessName = "javaw") Then
-                    acik_islem.Kill()
-                End If
-            Next
+            '    If (acik_islem.ProcessName = "javaw") Then
+            '        acik_islem.Kill()
+            '    End If
+            'Next
 
             If (arduino_bul()) Then
 kontrol:
